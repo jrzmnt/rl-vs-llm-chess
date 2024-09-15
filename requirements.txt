@@ -1,0 +1,8 @@
+python-chess
+transformers
+torch
+stable-baselines3[extra]
+gym
+pygame
+svglib
+reportlab
