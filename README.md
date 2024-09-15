@@ -2,6 +2,10 @@
 
 This project implements a chess game where a Reinforcement Learning (RL) agent plays against a Large Language Model (LLM). The game is visualized using a Pygame-based graphical user interface.
 
+<p align="center">
+  <img src="rl-vs-llm.gif" alt="Chess game between an RL and LLM models" width="35%">
+</p>
+
 ## Features
 
 - RL agent trained using Proximal Policy Optimization (PPO) from Stable Baselines3
