@@ -70,8 +70,27 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 - [python-chess](https://github.com/niklasf/python-chess) for the chess logic
 - [Pygame](https://www.pygame.org/) for the graphical interface
 
+## Citation
+
+If you use this project in your research or wish to refer to our related work on games and artificial intelligence, please use the following BibTeX entry:
+
+```bibtex
+@article{monteiro2018beating,
+  title={Beating bomberman with artificial intelligence},
+  author={Monteiro, Juarez and Granada, Roger Leitzke and Pinto, Rafael and Barros, Rodrigo Coelho},
+  journal={Anais do XV Encontro Nacional de Intelig{\^e}ncia Artificial e Computacional (ENIAC 2018), 2018, Brasil.},
+  year={2018}
+}
+```
+
 ## Author
 
 Created by Juarez Monteiro
 
+LinkedIn: [@juarez-monteiro](https://www.linkedin.com/in/juarez-monteiro/)
+
 GitHub: [@jrzmnt](https://github.com/jrzmnt)
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
